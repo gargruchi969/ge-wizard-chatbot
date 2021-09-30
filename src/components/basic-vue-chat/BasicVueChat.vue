@@ -146,8 +146,8 @@ export default {
 
     awsPostReq (element, botName, alias) {
       var credentials = {
-        accessKeyId: 'AKIA4C4H2Q455QLJW4XU',
-        secretAccessKey: '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',
+        accessKeyId: '',
+        secretAccessKey: '',
         sessionToken: '' // only required for temporary credentials
       }
       let here = this

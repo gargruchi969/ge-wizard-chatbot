@@ -91,8 +91,8 @@ export default {
         bucketName: 'getimagetextbuck',
         // dirName: "main",
         region: 'us-east-1',
-        accessKeyId: 'AKIA3KNTX5G42YWW7JFP',
-        secretAccessKey: '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',
+        accessKeyId: '',
+        secretAccessKey: '',
         s3Url: 'https://getimagetextbuck.s3.amazonaws.com/' /* optional */
         // header: "Access-Control-Allow-Origin: *",
       }

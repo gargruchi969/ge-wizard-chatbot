@@ -93,7 +93,7 @@ export default {
         region: 'us-east-1',
         accessKeyId: '',
         secretAccessKey: '',
-        s3Url: 'https://getimagetextbuck.s3.amazonaws.com/' /* optional */
+        s3Url: 'https://' /* optional */
         // header: "Access-Control-Allow-Origin: *",
       }
 
